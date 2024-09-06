@@ -59,30 +59,30 @@ Follow the steps outlined above to complete the project successfully.
 
 # Presentation Talking Points
 
-Example #: [Insert Example Number]
+Example #: [1]
 
 ## Imperative Approach [2 Minutes]
-1. **Step-by-Step Explanation:** Start by explaining the code logic in the imperative approach.
-   - Mention each step of the process in the code.
-   - Describe how the code provides explicit instructions for each action.
-   - Discuss the use of variables to track the state and progress of the process.
+1. **Step-by-Step Explanation:** 
+   - Preheating the grill - This step directly instructs the program to set the temperature of the grill to 240 degrees Celsius.
+   - Seasoning the steak - This step tells you which seasonings you should use and how to season the steak.
+   - Cook the steak - This step makes use of a while loop to ensure that the steak is cooked to the desired doneness. Within the while loop, there are further steps on how to reach the desired doneness, on how to adjust the temperature and how to grill. This is an imperative approach as it describes on how to achieve the goal which is cooking steak.
+   - Serve the steak - This step makes use of a conditional statement. It checks whether the steak temperature is greater than or equal to the desired doneness. If it is true, it returns 'Steak is ready to serve!' else it returns 'Steak needs more cooking. This is an imperative approach because this conditional statement dictates what action must be taken based on a condition. It tells you exactly how the program will know when the steak is ready or if it needs more cooking.
 
-2. **Emphasis on How:** Highlight how the imperative approach focuses on detailing "how" the task is accomplished.
-   - Point out the use of loops, conditions, and explicit instructions.
-   - Discuss any mutable variables or states that change during execution.
+[Watch example 1 video here](https://www.loom.com/share/118d72558bd14d66ab17bb4ff53f75d8?sid=71e292c7-4bfd-4b3f-8494-dfc8535b2e52)
 
-
-Example #: [Insert Example Number]
+Example #: [2]
 
 ## Declarative Approach [2 Minutes]
 1. **High-Level Process Description:** Explain the code logic in the declarative approach.
-   - Describe the cooking process in a high-level, abstract manner.
-   - Emphasize that the code defines "what" should happen rather than "how" it should happen.
+   - The grill temperature is defined which is 240. This approach is declarative because the desired outcome is stated without specifying how to achieve it.
+   - The desired seasoning is declared as salt and pepper.This approach is declarative because the seasoning that must be used is describe without detailing the process of how the steak should be seasoned.
+   - Cooking process - The cooking process steps are outlined in an array and objects which denotes to a declarative approach.
+   - The final step is 'Serve the steak'- This again indicates a declarative approach as it clearly states the outcome without specifying how to serve it.
 
-2. **Use of Data Structures:** Discuss the use of data structures (e.g., arrays, objects) to represent the process steps.
-   - Explain how the process steps are organized in a structured format.
-   - Mention any abstraction layers or functions used to encapsulate actions.
+[Watch Example 2 video here](https://www.loom.com/share/bf6a84ebbfc1458cb5fecb2110271503?sid=0e334c3a-31af-4acc-9e94-bd691d143b65)
 
 # Learning Outcome [1 Minute]
-- Reflect on what you've learned from analyzing these code examples in different paradigms.
+-I learned to distinguish between imperative and declarative approaches.
+- I also learned the specific data structures to be able to identify declarative approach.
+I also learned key features such as loops in order for me to identify imperative approach.
 
